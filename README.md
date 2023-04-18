@@ -14,8 +14,10 @@ Welcome to the first WhatsApp OSINT tool. This was developed in early 2019 but I
 
 # How to Install
 
-First, install requirements:
-
+First, install requirements and Chrome Driver:
+```
+    https://chromedriver.chromium.org/downloads
+```
 ```
 pip install -r requirements.txt
 ```
@@ -99,6 +101,6 @@ Bu araç benim tarafımdan boş zaman aktivitesi olarak geliştirildi.Aracın in
 
 [jasperan](https://github.com/jasperan)
 
-## Bu Kaynak Türkçeye Berkehan Göktürk Tarafından Çevrilmiştir. 
+## Bu Kaynak Türkçe'ye Berkehan Göktürk Tarafından Çevrilmiştir. 
 [BerkeGokturk71](https://github.com/BerkeGokturk71)
 
